@@ -15,7 +15,7 @@ public class JavaApplication91 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("New Change on GitHub 2");
+        // TODO code application logic here
     }
     
 }
